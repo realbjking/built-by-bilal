@@ -1,0 +1,55 @@
+LOGO FILES (current)
+====================
+Each brand's logo lives in assets/brands/ under the name shown on the left. To change one, overwrite that file
+(keep the same name; lowercase name and lowercase extension, e.g. aggc.jpg). If you switch format, delete the old file first.
+Supported: png, webp, svg, jpg, jpeg. A brand page picks its colour from its logo automatically.
+
+solicitors.png is still a placeholder: add the real logo as solicitors.png (or .jpg/.webp, deleting the placeholder).
+
+aggc.jpg               AG&C Pvt Ltd                   https://aligohar.com/
+alnajam.png            Alnajam International          https://www.alnajam.com/
+qadri.jpg              Qadri Health Co                https://share.google/aimode/rZ7ANDk41a9wESbQ0
+aimtex.jpg             Aimtex                         https://aimtex.pk/
+citytextile.jpg        City Textile                   https://citytextile.com/
+family.jpg             Family Hospital                (no website supplied)
+biocos.jpg             Biocos Cosmetics               https://www.biocospk.com/
+leads.jpg              Lahore Leads University        https://leads.edu.pk/
+islamic.jpg            Islamic Honey Center           https://islamichoney.com/
+stylefoam.webp         Style Foam                     https://stylefoam.pk/
+bakestan.jpg           Bakestan                       https://www.instagram.com/bakestanofficial/
+nadeem.jpg             Nadeem Restaurant              https://nadeemrestaurant.com/
+chandni.jpg            Chandni Chowk                  https://chandnichowk.pk/
+forks.png              Fork & Knives                  https://www.forksnknives.pk/
+psl.png                PSL                            (no website supplied)
+kashmir.jpg            Kashmir Beats                  (no website supplied)
+samsung.png            Samsung                        https://share.google/O5feJiZdkKttu2Rrv
+ditron.webp            Ditron                         https://ditronelectronics.com/
+farooq.webp            Farooq Electronics             https://farooq-electronics.myshopify.com/
+tinny.jpg              Tinny Tikes                    https://tinytikes.pk/
+emaan.jpg              Emaan Dental & Esthetics       (no website supplied)
+zaryan.jpg             Zaryan Food                    (no website supplied)
+almode.jpg             Al-Mode Shoes                  https://almodeshop.com/
+ecs.png                ECS — Ehsan Chapal Store       https://shopecs.com/
+smart.jpg              Smart Apartments               https://www.instagram.com/smartapartmentslahore/
+cigar.webp             Cigar.pk                       https://cigar.pk/
+pcc.png                Pakistan Cigar Club            https://pakistancigarclub.com/
+steak.jpg              Steak Away                     https://www.steakaway.pk/
+nuevo.jpg              Nuevo Solar                    https://nuevo.pk/
+hair.jpg               Hair Skill                     https://www.instagram.com/hairskillclinic/
+rsvibe.png             RS Vibe                        https://www.rsvibe.com/
+panache.jpg            Panache                        https://panacheonline.pk/
+wildbee.jpg            Wild Bee Honey                 https://wildbeehoney.ae/
+nonstop.jpg            Nonstop Travel Tourism         https://www.instagram.com/nonstop_tourism_events/
+study2uni.png          Study2Uni                      https://study2uni.com/
+applyvisas.jpg         Apply Visas                    https://applyvisas.co.uk/
+ranabaig.jpg           RanaBaig Law Firm              https://ranabaiglawfirm.com/
+charity.jpg            Charity4Humanity               https://charity4humanity.org/
+solicitors.png         Solicitors Chambers            (no website supplied)
+syb.jpg                SYB Business Ecosystem         https://sybecosystem.com/
+discountoye.png        Discountoye.pk                 https://discountoye.pk/
+
+YOUR OWN LOGO
+=============
+assets/logo/logo.jpg       original logo (hero, contact page, footer)
+assets/logo/logo-mark.jpg  same logo with empty margins trimmed (header)
+assets/logo/favicon.png    browser tab icon
